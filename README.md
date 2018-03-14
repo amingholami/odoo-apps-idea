@@ -2,7 +2,8 @@
 
 An idea for interacting, previewing or just playing with Odoo Apps on hover.
 
-[Demo](https://htmlpreview.github.io/?https://github.com/amingholami/odoo-apps-idea/blob/master/index.html)
+[Screenshot](https://rawgit.com/amingholami/odoo-apps-idea/blob/master/screenshot.png)
+[Demo](https://rawgit.com/amingholami/odoo-apps-idea/blob/master/index.html)
 
 ## Credits
 
