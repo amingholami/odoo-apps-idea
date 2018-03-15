@@ -18,7 +18,6 @@ Odoo is an all-in-one management software that offers a range of business applic
 - [Charming.js](https://github.com/yuanqing/charming) by Yuan Qing
 - [Iconminds](https://iconsmind.com/)
 - [Odoo](https://www.odoo.com/)
-- Folder user icon by [Madebyoliver](http://www.flaticon.com/authors/madebyoliver), [Ineraction Asset](http://www.flaticon.com/packs/interaction-assets-2)
 - Colors inspirations by [amzcreative1](https://dribbble.com/shots/4299618--Mohj-Logo)
 
 ## License
